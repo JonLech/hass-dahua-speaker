@@ -1,0 +1,10 @@
+{
+    "domain": "dahua_speaker",
+    "name": "Dahua Speaker",
+    "codeowners": ["@JonLech"],
+    "config_flow": true,
+    "documentation": "https://github.com/JonLech/hass-dahua-speaker",
+    "iot_class": "local_polling",
+    "version": "1.0.0",
+    "requirements": []
+}
